@@ -1,4 +1,3 @@
-# ios-image-networking
 UIImageView extension for a short way of downloading images from remote
 
 For a created `UIImageVIew` apply:
