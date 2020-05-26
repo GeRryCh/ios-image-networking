@@ -9,4 +9,4 @@ imageView.nw.image(from: imageURL)
 
 That's it!
 
-Note for contirbution > I'd like this to support caching. If could could add it, I'd deeply appriciate it!
+> Note to contributers: I'd like this to support caching. If could could add it, I'd deeply appriciate it!
